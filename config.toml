@@ -60,10 +60,10 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "monikabihan@gmail.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "Building 45, 4AN.16D-51 Bethesda, MD 20894"
   office_hours = "Monday 8:00 to 16:00 or email for appointment"
   phone = "301-496-5964"
-  skype = "echo123"
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
