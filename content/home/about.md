@@ -12,8 +12,9 @@ weight = 5
   interests = [
     "Bioinformatics",
     "Data Scientist",
-    "Data Management"
-    "Python"
+    "Data Management",
+    "Python",
+    "Perl"
   ]
 
 # List your qualifications (such as academic degrees).
