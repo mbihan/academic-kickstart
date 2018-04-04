@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-04-04T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bioinformatics",
+    "Data Scientist",
+    "Data Management"
+    "Python"
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MS in Bioinformatics"
+  institution = "New Jersey Institute of Technology"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Tech. in Biotechnology"
+  institution = "Meerut Institute of Engineering & Technology, India"
+  year = 2005
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Monika Bihan is a Data Management Specialist at dbGaP branch of National Institutes of Health. Her research interests include data management using SQL scripting and Python and Perl. She supports the curator group, which curates the submitted studies for data issues.
+The study is then released and made publicly available for research purposes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+She has also worked on various -omics data including metagenomics, transcriptomics from various platforms like Sanger, Illumina MySeq or HiSeq, 454, PacBio. 
